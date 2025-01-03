@@ -1,0 +1,17 @@
+{
+  "name": "com.puerinferos.customblender",
+  "displayName": "Custom Blender",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "Custom Blender is a Cinemachine extension that allows you to smoothly blend between overrided modes orthographic/perspective.",
+  "keywords": [
+    "camera",
+    "cinematography",
+    "cinemachine",
+    "lens"
+  ],
+  "category": "cinematography",
+  "dependencies": {
+    "com.unity.cinemachine": "3.0.0"
+  }
+}
